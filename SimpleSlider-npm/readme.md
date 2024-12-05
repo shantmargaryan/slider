@@ -54,31 +54,6 @@ const SimpleSlider = require('simpleslider');
 ```
 ```css
 
-/*===NULL CSS===========================================*/
-*,
-*:before,
-*:after {
-    box-sizing: inherit;
-}
-
-html {
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-}
-
-.page,
-.page__body {
-    width: 100%;
-    height: 100%;
-}
-
-.page__body {
-    margin: 0;
-}
-
-/*===/NULL CSS===========================================*/
-
-
 .slider {
     position: relative;
 }
