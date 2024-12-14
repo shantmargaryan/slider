@@ -217,3 +217,5 @@ const SimpleSlider = new SimpleSlider('slider', {
   ...
 });
 ```
+
+donate: donate to this number 4083 0600 1178 8326
